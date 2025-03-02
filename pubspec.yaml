@@ -1,0 +1,41 @@
+name: recipe_app
+description: A recipe meal application that uses TheMealDB API.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  
+  # State management
+  provider: ^6.0.5
+  
+  # UI and animations
+  google_fonts: ^5.1.0
+  flutter_animate: ^4.2.0
+  animated_bottom_navigation_bar: ^1.2.0
+  flutter_staggered_animations: ^1.1.1
+  loading_animation_widget: ^1.2.0+4
+  lottie: ^2.6.0
+  
+  # Networking and data
+  http: ^1.1.0
+  cached_network_image: ^3.2.3
+  
+  # Utils
+  url_launcher: ^6.1.12
+  dynamic_color: ^1.6.6
+  shimmer: ^3.0.0
+  carousel_slider: ^5.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.2
+
+flutter:
+  uses-material-design: true
