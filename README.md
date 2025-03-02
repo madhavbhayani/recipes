@@ -37,7 +37,7 @@ A Flutter application that uses TheMealDB API to display recipes from around the
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/recipe_app.git
+   git clone https://github.com/madhavbhayani/recipes.git
    ```
 
 2. Navigate to the project folder:
