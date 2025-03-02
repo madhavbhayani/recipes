@@ -15,6 +15,18 @@ A Flutter application that uses TheMealDB API to display recipes from around the
 
 ## Getting Started
 
+### ScreenShots
+<p align="center">
+  <img src="assets/screenshots/home.jpg" width="30%" alt="Screenshot 1">
+  <img src="assets/screenshots/filter.jpg" width="30%" alt="Screenshot 2">
+  <img src="assets/screenshots/search.jpg" width="30%" alt="Screenshot 3">
+</p>
+<p align="center">
+  <img src="assets/screenshots/detailscreen.jpg" width="30%" alt="Screenshot 4">
+  <img src="assets/screenshots/category.jpg" width="30%" alt="Screenshot 5">
+  <img src="assets/screenshots/fav.jpg" width="30%" alt="Screenshot 6">
+</p>
+
 ### Prerequisites
 
 - Flutter SDK installed
